@@ -33,7 +33,7 @@ Lab instruments export CV, GCD and EIS data in inconsistent formats, so processi
 
 `Python` `pandas` `SciPy` `Matplotlib` `Streamlit`
 
-#### 🚆 [Melbourne Public Transport Chatbot](https://github.com/Chameleon-company/MOP-Code) · *Melbourne Open Data Playground team project*
+#### 🚆 [Melbourne Public Transport Chatbot](https://github.com/Chaitanya932000/melbourne-public-transport-chatbot) · *Melbourne Open Data Playground team project*
 Part of a team building tools on Melbourne open data. I developed features for a public-transport chatbot: real-time transport updates, a "find my next train" feature using GTFS timetable data, train, tram and bus maps, and an improved chat web interface.
 
 `Python` `GTFS data` `NLU chatbot` `HTML/JS`
