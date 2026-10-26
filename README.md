@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Chaitanya Patil 👋
 
-<!--
-**Chaitanya932000/Chaitanya932000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data science graduate based in **Melbourne, Australia**, looking for entry-level **data analyst / data science** roles.
 
-Here are some ideas to get you started:
+- 🎓 **Master of Data Science** — Deakin University (2026)
+- 🔬 **Master of Physics & BSc Physics** — Pune, India
+- 📊 I enjoy turning messy, real-world data (lab instruments, operational data) into clean tables, clear charts and useful insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools I use
+
+- **Languages & analysis:** Python · pandas · NumPy · SciPy · Jupyter
+- **Visualisation & apps:** Matplotlib · Seaborn · Streamlit
+- **Other:** Git & GitHub · Excel · CI/CD basics (Jenkins, GitHub Actions)
+
+### 📁 Featured projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [Battery Electrochemical Data Analysis](https://github.com/Chaitanya932000/battery-analysis-project) | End-to-end pipeline that loads raw CV, GCD and EIS lab files, cleans them, extracts key metrics and produces report-ready plots, tables and a Streamlit dashboard | Python, pandas, Matplotlib, Streamlit |
+| [FireFusion (InnovAIte, Deakin)](https://github.com/Chaitanya932000/InnovAIte_FireFusion_Project) | Team capstone project — I contributed front-end work including the alerts landing / monitoring screen | Jupyter, team Git workflow |
+
+### 📫 Get in touch
+
+Open to junior data analyst, data science and data-related graduate roles across Australia and New Zealand. Feel free to connect!
