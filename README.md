@@ -12,16 +12,25 @@ So I followed that. In Melbourne I completed a **Master of Data Science at Deaki
 
 ### Things I've built
 
-**🔋 [Battery Electrochemical Data Analysis](https://github.com/Chaitanya932000/battery-analysis-project)**: *my own project*
+#### 🔋 [Battery Electrochemical Data Analysis](https://github.com/Chaitanya932000/battery-analysis-project)
+*my own project*
+
 Battery tests (CV, GCD and EIS) export data in slightly different formats, and processing them by hand is slow and error-prone. I wrote a Python pipeline that reads every raw file, works out the messy column names itself, pulls out the key measurements and produces report-ready charts and tables in one run. Then I added a Streamlit dashboard so results can be explored without touching code.
+
 <sub>Python · pandas · SciPy · Matplotlib · Streamlit</sub>
 
-**🚆 [Melbourne Public Transport Chatbot](https://github.com/Chaitanya932000/melbourne-public-transport-chatbot)**: *team project, Melbourne Open Data Playground*
+#### 🚆 [Melbourne Public Transport Chatbot](https://github.com/Chaitanya932000/melbourne-public-transport-chatbot)
+*team project, Melbourne Open Data Playground*
+
 A chatbot you can simply ask *"when's my next train?"*. I worked on the next-train finder using real timetable (GTFS) data, made it handle unknown stations and bad input gracefully, connected live transport updates, and improved the maps and chat interface.
+
 <sub>Python · Rasa · GTFS · PTV API · HTML/JS</sub>
 
-**🔥 [FireFusion](https://github.com/InnovAIte-Deakin/InnovAIte_FireFusion_Project)**: *team project, InnovAIte at Deakin*
+#### 🔥 [FireFusion](https://github.com/InnovAIte-Deakin/InnovAIte_FireFusion_Project)
+*team project, InnovAIte at Deakin*
+
 A large multi-team platform. I built two monitoring screens, the [misinformation monitor](https://github.com/InnovAIte-Deakin/InnovAIte_FireFusion_Project/pull/136) (merged) and the [alerts monitor](https://github.com/InnovAIte-Deakin/InnovAIte_FireFusion_Project/pull/127), working through branches, pull requests and code review with the team.
+
 <sub>Front-end · Git workflow · Code review</sub>
 
 ---
