@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Chaitanya Patil - from lab data to clear answers">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1d33"/>
+      <stop offset="1" stop-color="#123a5c"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+    <style>
+      .grid{stroke:#ffffff;stroke-opacity:.06}
+      .name{font:700 56px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#ffffff}
+      .role{font:500 22px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#cbd5e1}
+      .tag{font:italic 400 18px Georgia,'Times New Roman',serif;fill:#5eead4}
+      .lbl{font:600 12px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#94a3b8;letter-spacing:2px}
+      .trace{stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 3.5s ease-out forwards}
+      .dot{opacity:0;animation:pop .4s ease-out forwards}
+      @keyframes draw{to{stroke-dashoffset:0}}
+      @keyframes pop{to{opacity:1}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+
+  <!-- faint lab-notebook grid -->
+  <g class="grid">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path d="M100 0V300M200 0V300M300 0V300M400 0V300M500 0V300M600 0V300M700 0V300M800 0V300M900 0V300M1000 0V300M1100 0V300"/>
+  </g>
+
+  <!-- left: noisy signal (lab data)  ->  right: clean trend (insight) -->
+  <path class="trace" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+        d="M640 210 L660 190 L672 228 L686 176 L700 214 L714 182 L728 220 L742 170 L756 204 L770 186 L790 196 L820 178 L860 168 L900 150 L940 140 L980 118 L1020 108 L1060 88 L1100 72 L1140 60"/>
+  <g fill="#fbbf24">
+    <circle class="dot" cx="900" cy="150" r="5" style="animation-delay:2.2s"/>
+    <circle class="dot" cx="1020" cy="108" r="5" style="animation-delay:2.7s"/>
+    <circle class="dot" cx="1140" cy="60" r="6" style="animation-delay:3.2s"/>
+  </g>
+  <text class="lbl" x="646" y="258">RAW LAB DATA</text>
+  <text class="lbl" x="1010" y="258">CLEAR ANSWERS</text>
+
+  <!-- text -->
+  <text class="name" x="60" y="128">Chaitanya Patil</text>
+  <text class="role" x="62" y="172">Data Science Graduate (Deakin) · Python · Analytics</text>
+  <text class="tag" x="62" y="214">Physicist by training. Data person by choice. Based in Melbourne.</text>
+</svg>
