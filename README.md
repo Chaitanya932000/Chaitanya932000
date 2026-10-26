@@ -1,56 +1,46 @@
-# Hi, I'm Chaitanya 👋
+<img src="assets/banner.svg" alt="Chaitanya Patil, Data Science Graduate" width="100%">
 
-**Data science graduate in Melbourne, turning messy real-world data into clear answers.**
+### Hey, I'm Chaitanya 👋
 
-I started out in physics, spending a lot of time in labs with instrument data that never came in a tidy format. That's where I found out I enjoy the data side most: cleaning it, finding the pattern, and explaining it so other people can act on it. That led me to a **Master of Data Science at Deakin University (2026)**.
+I came to data through physics. After my BSc and Master of Physics in Pune, I kept noticing that the part I enjoyed most wasn't the theory. It was working with the measurements: cleaning them up, plotting them, and reaching the moment where the numbers finally made sense.
 
-Today I build practical, end-to-end data workflows in Python, and I'm looking for my first **junior data analyst / data science role** in Australia or New Zealand.
+So I followed that. In Melbourne I completed a **Master of Data Science at Deakin University (2026)**, and now I'm looking for my first role as a **junior data analyst or data scientist**.
 
----
-
-### 🔍 What I bring
-
-- **From raw data to insight:** I clean, standardise and analyse messy files from different sources, then present the results as clear charts and summary tables
-- **Scientific thinking:** a physics background (BSc and MSc) means I'm comfortable with experiments, measurement and checking whether a result really makes sense
-- **Team delivery:** two Deakin industry-style capstone teams, working through Git branches, pull requests and code review
-- **Reliability:** I've worked in Melbourne warehouse operations alongside my studies, so I'm used to deadlines, accuracy and showing up
-
-### 🛠️ Toolkit
-
-| Area | Tools |
-|---|---|
-| Analysis | Python, pandas, NumPy, SciPy, Jupyter, Excel |
-| Visualisation | Matplotlib, Seaborn, Streamlit dashboards |
-| Collaboration | Git & GitHub, pull-request workflow, CI/CD basics (GitHub Actions, Jenkins) |
-| Also used | HTML/JavaScript, conversational AI (NLU chatbot) |
+**What I'm good at:** taking data that's messy, inconsistent or spread across files, and turning it into something a person can look at and make a decision from.
 
 ---
 
-### 📁 Featured work
+### Things I've built
 
-#### 🔋 [Battery Electrochemical Data Analysis](https://github.com/Chaitanya932000/battery-analysis-project) · *personal project*
-Lab instruments export CV, GCD and EIS data in inconsistent formats, so processing it by hand was slow and easy to get wrong. I built a Python pipeline that loads every raw file, matches messy column names, extracts the key metrics and produces report-ready plots and CSV summaries in one run, plus an interactive Streamlit dashboard.
+**🔋 [Battery Electrochemical Data Analysis](https://github.com/Chaitanya932000/battery-analysis-project)**: *my own project*
+Battery tests (CV, GCD and EIS) export data in slightly different formats, and processing them by hand is slow and error-prone. I wrote a Python pipeline that reads every raw file, works out the messy column names itself, pulls out the key measurements and produces report-ready charts and tables in one run. Then I added a Streamlit dashboard so results can be explored without touching code.
+<sub>Python · pandas · SciPy · Matplotlib · Streamlit</sub>
 
-`Python` `pandas` `SciPy` `Matplotlib` `Streamlit`
+**🚆 [Melbourne Public Transport Chatbot](https://github.com/Chaitanya932000/melbourne-public-transport-chatbot)**: *team project, Melbourne Open Data Playground*
+A chatbot you can simply ask *"when's my next train?"*. I worked on the next-train finder using real timetable (GTFS) data, made it handle unknown stations and bad input gracefully, connected live transport updates, and improved the maps and chat interface.
+<sub>Python · Rasa · GTFS · PTV API · HTML/JS</sub>
 
-#### 🚆 [Melbourne Public Transport Chatbot](https://github.com/Chaitanya932000/melbourne-public-transport-chatbot) · *Melbourne Open Data Playground team project*
-Part of a team building tools on Melbourne open data. I developed features for a public-transport chatbot: real-time transport updates, a "find my next train" feature using GTFS timetable data, train, tram and bus maps, and an improved chat web interface.
-
-`Python` `GTFS data` `NLU chatbot` `HTML/JS`
-
-#### 🔥 [FireFusion](https://github.com/InnovAIte-Deakin/InnovAIte_FireFusion_Project) · *InnovAIte, Deakin team project*
-A multi-team AI and data platform. I built the misinformation monitor landing screen ([PR #136](https://github.com/InnovAIte-Deakin/InnovAIte_FireFusion_Project/pull/136), merged) and the alerts landing monitor screen ([PR #127](https://github.com/InnovAIte-Deakin/InnovAIte_FireFusion_Project/pull/127)).
-
-`Front-end` `Team Git workflow` `Code review`
+**🔥 [FireFusion](https://github.com/InnovAIte-Deakin/InnovAIte_FireFusion_Project)**: *team project, InnovAIte at Deakin*
+A large multi-team platform. I built two monitoring screens, the [misinformation monitor](https://github.com/InnovAIte-Deakin/InnovAIte_FireFusion_Project/pull/136) (merged) and the [alerts monitor](https://github.com/InnovAIte-Deakin/InnovAIte_FireFusion_Project/pull/127), working through branches, pull requests and code review with the team.
+<sub>Front-end · Git workflow · Code review</sub>
 
 ---
 
-### 🎯 What I'm looking for
+### How I like to work
 
-Junior / graduate roles in **data analysis, data science or reporting**, contract or permanent. I'm based in Melbourne and happy to relocate anywhere in Australia or New Zealand.
+- **Check the data before trusting it.** Physics taught me that a strange result is usually a measurement problem first.
+- **Automate the boring part.** If I'm doing something by hand twice, it becomes a script.
+- **Explain it simply.** A chart someone understands beats a model nobody trusts.
+- **Show up and get it done.** I've worked in Melbourne warehouse operations alongside my studies, where accuracy and deadlines aren't optional.
 
-### 🤝 Let's connect
+### My toolkit
 
-I'm always happy to chat about data, a role, or a project.
+`Python` `pandas` `NumPy` `SciPy` `Jupyter` `Excel` `Matplotlib` `Seaborn` `Streamlit` `Git` `GitHub Actions`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaitanya%20Patil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya932000)
+---
+
+### Let's talk
+
+I'm open to **junior data analyst, data science and reporting roles**, contract or permanent, in Melbourne or anywhere in Australia and New Zealand. If you're hiring or just want to talk data, I'd love to hear from you.
+
+<a href="https://www.linkedin.com/in/chaitanya932000"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
