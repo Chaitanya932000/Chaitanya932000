@@ -23,3 +23,5 @@ Data science graduate based in **Melbourne, Australia**, looking for entry-level
 ### 📫 Get in touch
 
 Open to junior data analyst, data science and data-related graduate roles across Australia and New Zealand. Feel free to connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaitanya%20Patil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya932000)
